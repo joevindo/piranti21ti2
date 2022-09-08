@@ -1,0 +1,5 @@
+specification
+development
+operation
+maintenance
+customer input
